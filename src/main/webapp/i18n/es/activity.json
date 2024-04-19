@@ -1,0 +1,26 @@
+{
+    "jhipsterpressApp": {
+        "activity": {
+            "home": {
+                "title": "Actividades",
+                "createLabel": "Crear una nueva Actividad",
+                "myLabel": "Mi Actividades",
+                "noticeLabel": "Escoge un interés existente o corre el riesgo de estar solo en una nueva categoría de Actividad!",
+                "createOrEditLabel": "Crear o editar Actividad",
+                "search": "Buscar una Actividad"
+            },
+            "created": "Una nueva Actividad ha sido creada con el identificador {{ param }}",
+            "updated": "Una Actividad ha sido actualizada con el identificador {{ param }}",
+            "deleted": "Una Actividad ha sido eliminada con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar la Actividad {{ id }}?"
+            },
+            "detail": {
+                "title": "Actividad"
+            },
+            "activityName": "Nombre de la Actividad",
+            "community": "Comunidad",
+            "uprofile": "Perfil"
+        }
+    }
+}

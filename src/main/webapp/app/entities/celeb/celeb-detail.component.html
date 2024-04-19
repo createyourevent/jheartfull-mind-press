@@ -1,0 +1,31 @@
+<div class="row justify-content-center">
+    <div class="col-8">
+        <div *ngIf="celeb">
+            <h2><span jhiTranslate="jhipsterpressApp.celeb.celebName">Celeb</span>: {{celeb.celebName}}</h2>
+            <hr>
+            <jhi-alert-error></jhi-alert-error>
+            <dl class="row-md jh-entity-details">
+                <dt><span jhiTranslate="jhipsterpressApp.celeb.uprofile">Uprofile</span></dt>
+                <dd>
+                    <span *ngFor="let uprofile of celeb.uprofiles; let last = last">
+                    	<img [src]="'data:' + uprofile.imageContentType + ';base64,' + uprofile.image" style="max-height: 100px;" *ngIf="uprofile.image" alt="uprofile image"/>
+                        <a [routerLink]="['/uprofile', uprofile?.id, 'view' ]">{{uprofile.userFirstName}} {{uprofile.userFirstName}}</a>{{last ? '' : ', '}}<br>
+                    </span>
+                </dd>
+            </dl>
+
+            <button type="submit"
+                    (click)="previousState()"
+                    class="btn btn-info">
+                <fa-icon [icon]="'arrow-left'"></fa-icon>&nbsp;<span jhiTranslate="entity.action.back"> Back</span>
+            </button>
+			<!--
+            <button type="button"
+                    [routerLink]="['/celeb', celeb.id, 'edit']"
+                    class="btn btn-primary">
+                <fa-icon [icon]="'pencil-alt'"></fa-icon>&nbsp;<span jhiTranslate="entity.action.edit"> Edit</span>
+            </button>
+             -->
+        </div>
+    </div>
+</div>

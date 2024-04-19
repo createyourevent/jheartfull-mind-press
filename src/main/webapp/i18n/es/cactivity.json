@@ -1,0 +1,25 @@
+{
+    "jhipsterpressApp": {
+        "cactivity": {
+            "home": {
+                "title": "Actividad Comunitaria",
+                "createLabel": "Crear nuevo Actividad Comunitaria",
+                "myLabel": "Mis Actividades Comunitarias",
+                "noticeLabel": "Escoge un interés existente o corre el riesgo de estar solo en una nueva categoría de Actividad Comunitaria!",
+                "createOrEditLabel": "Crear o editar Actividad Comunitaria",
+                "search": "Buscar una Actividad Comunitaria"
+            },
+            "created": "Una nueva Actividad Comunitaria ha sido creada con el identificador {{ param }}",
+            "updated": "Una Actividad Comunitaria ha sido actualizada con el identificador {{ param }}",
+            "deleted": "Un Actividad Comunitaria ha sido eliminada con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar la Actividad Comunitaria {{ id }}?"
+            },
+            "detail": {
+                "title": "Actividad Comunitaria"
+            },
+            "activityName": "Nombre de la Actividad",
+            "community": "Comunidad"
+        }
+    }
+}

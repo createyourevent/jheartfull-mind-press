@@ -1,0 +1,27 @@
+{
+    "jhipsterpressApp": {
+        "cmessage": {
+            "home": {
+                "title": "Mensaje Comunitario",
+                "createLabel": "Crear nuevo Mensaje Comunitario",
+                "myLabel": "Mis Mensajes Comunitarios",
+                "createOrEditLabel": "Crear o editar Mensaje Comunitario",
+                "search": "Buscar un Mensaje Comunitario"
+            },
+            "created": "Un nuevo Mensaje Comunitario ha sido creado con el identificador {{ param }}",
+            "updated": "Un Mensaje Comunitario ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Mensaje Comunitario ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar el Mensaje Comunitario {{ id }}?"
+            },
+            "detail": {
+                "title": "Mensaje Comunitario"
+            },
+            "creationDate": "Fecha Creación",
+            "messageText": "Texto del Mensaje Comunitario",
+            "isDelivered": "Enviado",
+            "csender": "Comunidad Emisora",
+            "creceiver": "Comunidad Receptora"
+        }
+    }
+}

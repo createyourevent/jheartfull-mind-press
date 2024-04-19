@@ -1,0 +1,11 @@
+{
+    "jhipsterpressApp": {
+        "Smoker": {
+            "null": "",
+            "NA": "Not Aplicable",
+            "YES": "Yes",
+            "NO": "No",
+            "OCCASIONALLY": "Occasionally"
+        }
+    }
+}

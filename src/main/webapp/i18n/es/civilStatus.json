@@ -1,0 +1,15 @@
+{
+    "jhipsterpressApp": {
+        "CivilStatus": {
+            "null": "",
+            "NA": "No Aplica",
+            "SINGLE": "Soltero",
+            "MARRIED": "Casado",
+            "DIVORCED": "Divorciado",
+            "WIDOWER": "Viudo",
+            "SEPARATED": "Separado",
+            "ENGAGED": "Comprometido",
+            "OTHER": "Otros"
+        }
+    }
+}

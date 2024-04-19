@@ -1,0 +1,28 @@
+{
+    "jhipsterpressApp": {
+        "vanswer": {
+            "add": "Añade una Respuesta a la Pregunta",
+            "home": {
+                "title": "Respuestas",
+                "createLabel": "Crear nueva Respuesta",
+                "createOrEditLabel": "Crear o editar Respuesta",
+                "search": "Buscar una Respuesta"
+            },
+            "created": "Una nueva Respuesta ha sido creada con el identificador {{ param }}",
+            "updated": "Una Respuesta ha sido actualizada con el identificador {{ param }}",
+            "deleted": "Una Respuesta ha sido eliminada con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar la Respuesta {{ id }}?"
+            },
+            "detail": {
+                "title": "Respuesta"
+            },
+            "creationDate": "Fecha de Creación",
+            "urlVanswer": "Url Respuesta",
+            "accepted": "Aceptada",
+            "vthumb": "Pulgares",
+            "user": "Usario",
+            "vquestion": "Pregunta"
+        }
+    }
+}

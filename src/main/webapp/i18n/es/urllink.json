@@ -1,0 +1,23 @@
+{
+    "jhipsterpressApp": {
+        "urllink": {
+            "home": {
+                "title": "Url Links",
+                "createLabel": "Crear nueva Url Link",
+                "createOrEditLabel": "Crear o editar Url Link",
+                "search": "Buscar una Url Link"
+            },
+            "created": "Una nueva Url Link ha sido creada con el identificador {{ param }}",
+            "updated": "Una Url Link ha sido actualizada con el identificador {{ param }}",
+            "deleted": "Una Url Link ha sido eliminada con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar Url Link {{ id }}?"
+            },
+            "detail": {
+                "title": "Url Link"
+            },
+            "linkText": "Texto Link",
+            "linkURL": "Link URL"
+        }
+    }
+}

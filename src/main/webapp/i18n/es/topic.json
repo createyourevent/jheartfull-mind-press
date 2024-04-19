@@ -1,0 +1,24 @@
+{
+    "jhipsterpressApp": {
+        "topic": {
+            "home": {
+                "title": "Temas",
+                "createLabel": "Crear nuevo Tema",
+                "noticeLabel": "Escoge un interés existente o corre el riesgo de estar solo en una nueva categoría de Tema!",
+                "createOrEditLabel": "Crear o editar Tema",
+                "search": "Buscar un Tema"
+            },
+            "created": "Un nuevo Tema ha sido creado con el identificador {{ param }}",
+            "updated": "Un Tema ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Tema ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar el Tema {{ id }}?"
+            },
+            "detail": {
+                "title": "Tema"
+            },
+            "topicName": "Tema",
+            "post": "Post"
+        }
+    }
+}

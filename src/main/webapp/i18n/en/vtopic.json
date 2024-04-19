@@ -1,0 +1,28 @@
+{
+    "jhipsterpressApp": {
+        "vtopic": {
+            "add": "Add a new Question to the topic",
+            "home": {
+                "title": "Questions' Topics",
+                "createLabel": "Create a new Question Topic",
+                "createOrEditLabel": "Create or edit a Question Topic",
+                "search": "Search for Question Topic"
+            },
+            "created": "A new Question Topic is created with identifier {{ param }}",
+            "updated": "A Question Topic is updated with identifier {{ param }}",
+            "deleted": "A Question Topic is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Question Topic {{ id }}?"
+            },
+            "detail": {
+                "title": "Question Topic"
+            },
+            "creationDate": "Creation Date",
+            "related": "Questions related to: ",
+            "vtopicTitle": "Question Topic Title",
+            "vtopicDescription": "Question Topic Description",
+            "vquestion": "Question",
+            "user": "User"
+        }
+    }
+}

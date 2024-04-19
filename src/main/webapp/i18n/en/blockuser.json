@@ -1,0 +1,28 @@
+{
+    "jhipsterpressApp": {
+        "blockuser": {
+            "home": {
+                "title": "Block Users",
+                "titleBlockingusers": "Blocking Users",
+                "titleBlockedusers": "Blocked Users",
+                "createLabel": "Create a new Block User",
+                "createOrEditLabel": "Create or edit a Block User",
+                "search": "Search for Blockuser"
+            },
+            "created": "A new Blockuser is created with identifier {{ param }}",
+            "updated": "A Blockuser is updated with identifier {{ param }}",
+            "deleted": "A Blockuser is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Block User {{ id }}?"
+            },
+            "detail": {
+                "title": "Block User"
+            },
+            "creationDate": "Creation Date",
+            "blockeduser": "Blocked User",
+            "blockinguser": "Blocking User",
+            "cblockeduser": "Community Blocked User",
+            "cblockinguser": "Community Blocking User"
+        }
+    }
+}

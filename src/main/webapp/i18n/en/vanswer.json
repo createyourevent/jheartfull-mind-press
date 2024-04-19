@@ -1,0 +1,28 @@
+{
+    "jhipsterpressApp": {
+        "vanswer": {
+            "add": "Add a new Answer to the Question",
+            "home": {
+                "title": "Answers",
+                "createLabel": "Create a new Answer",
+                "createOrEditLabel": "Create or edit a Answer",
+                "search": "Search for Answers"
+            },
+            "created": "A new Answer is created with identifier {{ param }}",
+            "updated": "A Answer is updated with identifier {{ param }}",
+            "deleted": "A Answer is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Answer {{ id }}?"
+            },
+            "detail": {
+                "title": "Answer"
+            },
+            "creationDate": "Creation Date",
+            "urlVanswer": "Url Answer",
+            "accepted": "Accepted",
+            "vthumb": "Thumb",
+            "user": "User",
+            "vquestion": "Question"
+        }
+    }
+}

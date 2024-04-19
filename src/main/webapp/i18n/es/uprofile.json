@@ -1,0 +1,59 @@
+{
+    "jhipsterpressApp": {
+        "uprofile": {
+            "home": {
+                "title": "Perfil",
+                "createLabel": "Crear nuevo Perfil",
+                "myLabel": "Mi Perfil",
+                "createOrEditLabel": "Crear o editar Perfil",
+                "search": "Search for Uprofile",
+                "search1Criteria": "Buscar un Perfil con un criterio:",
+                "searchMultiCriteria": "Buscar un Perfil con múltiples criterios:",
+                "searchResults": "Resultados de la búsqueda:",
+                "searchBio": "Buscar un texto en la Bio",
+                "searchGender": "Buscar un Perfil"
+            },
+            "created": "Un nuevo Perfil ha sido creado con el identificador {{ param }}",
+            "updated": "Un Perfil ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Perfil ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar Perfil {{ id }}?"
+            },
+            "detail": {
+                "title": "Perfil"
+            },
+            "creationDate": "Fecha de Creación",
+            "image": "Imagen",
+            "gender": "Género",
+            "phone": "Teléfono",
+            "bio": "Biografía",
+            "facebook": "Facebook",
+            "twitter": "Twitter",
+            "linkedin": "LinkedIn",
+            "instagram": "Instagram",
+            "googlePlus": "Google Plus",
+            "birthdate": "Cumpleaños",
+            "civilStatus": "Estado Civil",
+            "lookingFor": "Buscando...",
+            "purpose": "Propósito",
+            "physical": "Físico",
+            "religion": "Religión",
+            "ethnicGroup": "Group Étinco",
+            "follow": "Follow",
+            "unfollow": "UnFollow",
+            "blockuser": "Bloquear",
+            "unblockuser": "Desbloquear",
+            "studies": "Estudios",
+            "sibblings": "Hermanos",
+            "eyes": "Ojos",
+            "smoker": "Fumador",
+            "children": "Hijos",
+            "futureChildren": "Deseas más hijos",
+            "pet": "Mascota",
+            "user": "Usuario",
+            "interest": "Intereses",
+            "activity": "Actividades",
+            "celeb": "Celebridades"
+        }
+    }
+}

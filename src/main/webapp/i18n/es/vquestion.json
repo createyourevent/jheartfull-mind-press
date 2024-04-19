@@ -1,0 +1,28 @@
+{
+    "jhipsterpressApp": {
+        "vquestion": {
+            "home": {
+                "title": "Preguntas",
+                "createLabel": "Crear nueva Pregunta",
+                "createOrEditLabel": "Crear o editar Pregunta",
+                "search": "Buscar una Pregunta"
+            },
+            "created": "Una nueva Pregunta ha sido creada con el identificador {{ param }}",
+            "updated": "Una Pregunta ha sido actualizada con el identificador {{ param }}",
+            "deleted": "Una Pregunta ha sido eliminada con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar la Pregunta {{ id }}?"
+            },
+            "detail": {
+                "title": "Pregunta"
+            },
+            "creationDate": "Fecha de Creación",
+            "vquestion": "Pregunta",
+            "vquestionDescription": "Descripción de la Pregunta",
+            "vanswer": "Respuesta",
+            "vthumb": "Pulgares",
+            "user": "Usuario",
+            "vtopic": "Tema"
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "jhipsterpressApp": {
+        "FutureChildren": {
+            "null": "",
+            "NA": "No Aplica",
+            "YES": "Sí",
+            "NO": "No"
+        }
+    }
+}

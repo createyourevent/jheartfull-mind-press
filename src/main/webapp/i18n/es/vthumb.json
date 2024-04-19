@@ -1,0 +1,27 @@
+{
+    "jhipsterpressApp": {
+        "vthumb": {
+            "home": {
+                "title": "Pulgars",
+                "createLabel": "Crear nuevo Pulgar",
+                "createOrEditLabel": "Crear o editar Pulgar",
+                "search": "Buscar un Pulgar"
+            },
+            "created": "Un nuevo Pulgar ha sido creado con el identificador {{ param }}",
+            "updated": "Un Pulgar ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Pulgar ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar el Pulgar {{ id }}?"
+            },
+            "detail": {
+                "title": "Pulgar"
+            },
+            "creationDate": "Fecha de Creación",
+            "vthumbUp": "Pulgar Arriba",
+            "vthumbDown": "Pulgar Abajo",
+            "user": "Usuario",
+            "vquestion": "Preguntan",
+            "vanswer": "Respuesta"
+        }
+    }
+}

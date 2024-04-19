@@ -1,0 +1,13 @@
+{
+    "jhipsterpressApp": {
+        "NotificationReason": {
+            "null": "",
+            "FOLLOWING": "Nuevo Follower",
+            "UNFOLLOWING": "Unfollowing",
+            "PROPOSAL_RELEASED": "Propuesta Liberada",
+            "FOLLOWER_STATUS": "Status del Follower",
+            "AUTHORIZE_PARTY_FOLLOWER": "Autorizar Follower de la Communidad",
+            "UNAUTHORIZE_PARTY_FOLLOWER": "Desautorizar Follower de la Comunidad"
+        }
+    }
+}

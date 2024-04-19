@@ -1,0 +1,26 @@
+{
+    "jhipsterpressApp": {
+        "calbum": {
+            "home": {
+                "title": "Community Albums",
+                "createLabel": "Create a new Community Album",
+                "myLabel": "My Community Albums",
+                "createOrEditLabel": "Create or edit a Community Album",
+                "search": "Search for Community Album"
+            },
+            "created": "A new Community Album is created with identifier {{ param }}",
+            "updated": "A Community Album is updated with identifier {{ param }}",
+            "deleted": "A Community Album is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Community Album {{ id }}?"
+            },
+            "detail": {
+                "title": "Community Album"
+            },
+            "creationDate": "Creation Date",
+            "title": "Title",
+            "photo": "Photo",
+            "community": "Community"
+        }
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "jhipsterpressApp": {
+        "vtopic": {
+            "add": "Añadir una nueva pregunta al tema",
+            "home": {
+                "title": "Temas de las Preguntas",
+                "createLabel": "Crear un nuevo Tema",
+                "createOrEditLabel": "Crear o editar Tema",
+                "search": "Buscar un Tema"
+            },
+            "created": "Un nuevo Tema ha sido creado con el identificador {{ param }}",
+            "updated": "Un Tema ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Tema ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar el Tema {{ id }}?"
+            },
+            "detail": {
+                "title": "Tema"
+            },
+            "creationDate": "Fecha de creación",
+            "related": "Preguntas relacionadas con: ",
+            "vtopicTitle": "Tema",
+            "vtopicDescription": "Descripción del Tema",
+            "vquestion": "Pregunta",
+            "user": "Usuario"
+        }
+    }
+}

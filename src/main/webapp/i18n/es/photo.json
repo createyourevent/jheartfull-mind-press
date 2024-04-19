@@ -1,0 +1,26 @@
+{
+    "jhipsterpressApp": {
+        "photo": {
+            "home": {
+                "title": "Fotos",
+                "createLabel": "Crear nueva Foto",
+                "myLabel": "Mis Fotos",
+                "createOrEditLabel": "Crear o editar Foto",
+                "search": "Buscar una Foto"
+            },
+            "created": "Una nueva Foto ha sido creada con el identificador {{ param }}",
+            "updated": "Una Foto ha sido actualizada con el identificador {{ param }}",
+            "deleted": "Una Foto ha sido eliminada con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar la Foto {{ id }}?"
+            },
+            "detail": {
+                "title": "Foto"
+            },
+            "creationDate": "Fecha de Creación",
+            "image": "Imagen",
+            "album": "Album",
+            "calbum": "Album Comunitario"
+        }
+    }
+}

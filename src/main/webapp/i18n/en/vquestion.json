@@ -1,0 +1,28 @@
+{
+    "jhipsterpressApp": {
+        "vquestion": {
+            "home": {
+                "title": "Questions",
+                "createLabel": "Create a new Question",
+                "createOrEditLabel": "Create or edit a Question",
+                "search": "Search for Question"
+            },
+            "created": "A new Question is created with identifier {{ param }}",
+            "updated": "A Question is updated with identifier {{ param }}",
+            "deleted": "A Question is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Question {{ id }}?"
+            },
+            "detail": {
+                "title": "Question"
+            },
+            "creationDate": "Creation Date",
+            "vquestion": "Question",
+            "vquestionDescription": "Question Description",
+            "vanswer": "Answer",
+            "vthumb": "Thumb",
+            "user": "User",
+            "vtopic": "Topic"
+        }
+    }
+}

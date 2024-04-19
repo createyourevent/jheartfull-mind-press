@@ -1,0 +1,59 @@
+{
+    "jhipsterpressApp": {
+        "uprofile": {
+            "home": {
+                "title": "Profiles",
+                "createLabel": "Create a new Profile",
+                "myLabel": "My Profile",
+                "createOrEditLabel": "Create or edit a Profile",
+                "search": "Search for a Profile",
+                "search1Criteria": "One criteria, search Profile:",
+                "searchMultiCriteria": "Multicriteria search Profile:",
+                "searchResults": "Search Results:",
+                "searchBio": "Search for text in Bio",
+                "searchGender": "Search for a Profile"
+            },
+            "created": "A new Profile is created with identifier {{ param }}",
+            "updated": "A Profile is updated with identifier {{ param }}",
+            "deleted": "A Profile is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Profile {{ id }}?"
+            },
+            "detail": {
+                "title": "Profile"
+            },
+            "creationDate": "Creation Date",
+            "image": "Image",
+            "gender": "Gender",
+            "phone": "Phone",
+            "bio": "Bio",
+            "facebook": "Facebook",
+            "twitter": "Twitter",
+            "linkedin": "LinkedIn",
+            "instagram": "Instagram",
+            "googlePlus": "Google Plus",
+            "birthdate": "Birthdate",
+            "civilStatus": "Civil Status",
+            "lookingFor": "Looking For",
+            "purpose": "Purpose",
+            "physical": "Physical",
+            "religion": "Religion",
+            "ethnicGroup": "Ethnic Group",
+            "follow": "Follow",
+            "unfollow": "UnFollow",
+            "blockuser": "BlockUser",
+            "unblockuser": "UnBlockUser",
+            "studies": "Studies",
+            "sibblings": "Sibblings",
+            "eyes": "Eyes",
+            "smoker": "Smoker",
+            "children": "Children",
+            "futureChildren": "Future Children",
+            "pet": "Pet",
+            "user": "User",
+            "interest": "Interests",
+            "activity": "Activities",
+            "celeb": "Celebs"
+        }
+    }
+}

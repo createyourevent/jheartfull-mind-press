@@ -1,0 +1,14 @@
+{
+    "jhipsterpressApp": {
+        "Eyes": {
+            "null": "",
+            "NA": "Not Aplicable",
+            "BLUE": "Blue",
+            "GREEN": "Green",
+            "BROWN": "Brown",
+            "BLACK": "Black",
+            "CHESTNUT": "Chestnut",
+            "OTHER": "Other"
+        }
+    }
+}

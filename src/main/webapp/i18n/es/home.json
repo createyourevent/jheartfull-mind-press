@@ -1,0 +1,19 @@
+{
+    "home": {
+        "title": "¡Bienvenido, Spingular!",
+        "subtitle": "Esta es su página de inicio",
+        "logged": {
+            "message": "Está conectado como \"{{username}}\"."
+        },
+        "question": "Si tiene preguntas sobre Spingular:",
+        "link": {
+            "homepage": "Página de inicio de Spingular",
+            "stackoverflow": "Spingular en Stack Overflow",
+            "bugtracker": "Spingular seguimiento de errores",
+            "chat": "Sala de chat pública de Spingular",
+            "follow": "contacto @spingularpress en Twitter"
+        },
+        "like": "Si te gusta Spingular, danos una estrella en",
+        "github": "GitHub"
+    }
+}

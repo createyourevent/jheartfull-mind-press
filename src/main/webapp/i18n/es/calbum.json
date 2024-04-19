@@ -1,0 +1,26 @@
+{
+    "jhipsterpressApp": {
+        "calbum": {
+            "home": {
+                "title": "Album Comunitario",
+                "createLabel": "Crear nuevo Album Comunitario",
+                "myLabel": "Mi Album Comunitario",
+                "createOrEditLabel": "Crear o editar Album Comunitario",
+                "search": "Buscar un Album Comunitario"
+            },
+            "created": "Un nuevo Album Comunitario ha sido creado con el identificador {{ param }}",
+            "updated": "Un Album Comunitario ha sido actualizado con el identificador {{ param }}",
+            "deleted": "Un Album Comunitario ha sido eliminado con el identificador {{ param }}",
+            "delete": {
+                "question": "¿Seguro que quiere eliminar el Album Comunitario {{ id }}?"
+            },
+            "detail": {
+                "title": "Album Comunitario"
+            },
+            "creationDate": "Fecha creación",
+            "title": "Título",
+            "photo": "Foto",
+            "community": "Comunidad"
+        }
+    }
+}
